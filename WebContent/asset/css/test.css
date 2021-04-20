@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+.header-style {
+		height: 100px; 
+		
+	}
+
+@media screen and (max-width: 400px) {
+	.header-style {
+		height: 200px;
+	}
+	.search-style {
+		width: 100px;
+	}
+}

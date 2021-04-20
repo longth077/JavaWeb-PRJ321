@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+.header-bg {
+	background: #4d4d4d;
+}
+
+.product-img {
+	width: 350px;
+}
+
+.footer-bg {
+	background: #4d4d4d;
+}
+
+#login-form {
+	width: 300px;
+}
+
+#username {
+	background: #f2f1eb; 
+	width: 280 px;
+}
+
+#password {
+	background: #f2f1eb; 
+	width: 280 px;
+}
+
+#submit-btn {
+	font-size: 20px; 
+	border-radius: 20px; 
+	width: 120px;
+}
+
+.page-login {
+	background: #34005e;
+}
+
+.nav-bg-img {
+	position: absolute; 
+	width: 1000px;
+}
+
+.opacity-bg {
+	position: absolute; 
+	background-color: #121940; 
+	opacity: 0.8;
+}
+
+.nav-more {
+	width:120px; 
+	font-size:13px; 
+	color: #dadee6;
+}
+
+.active-optional {
+	background: #89219c;
+	width: 130px; 
+}
+
+.text-color-optional {
+	color: #c9cdd4;
+}
+
+.bg-optional {
+	background: #121940; 
+	color:#e0d5e3;
+}
+
+.links-work {
+	 right: 0; 
+	 display: inline;
+}
+
+.header-text-optional {
+	background: #89219c; 
+	font-size: 20px;
+}
+
+.tb-info {
+	background: #162a45; 
+	font-size: 20px;
+}
+
+.text-font-size {
+	font-size: 20px;
+}
+.text-price {
+	font-size: 24px; 
+	color: red;
+}
+.w-check {
+	width: 20px;
+	margin-top: 10px;
+}
+.h-team {
+	font-size: 30px;
+}
+
+.success-size {
+	height: 500px;
+}
+.error-style {
+	height: 500px;
+}
+	
+@media screen and (max-width: 400px) {
+	
+}
+
+/* .get-active:visited {
+	color: red;
+} */
